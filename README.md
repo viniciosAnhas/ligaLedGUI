@@ -32,7 +32,7 @@ ___
 
 + Baixe o projeto no <b>RaspberryPI</b>;
 + Abra o projeto com o editor Thony;
-+ Realize a montagem do circuito conforme mostrado no <b>Esquematico</b>, caso queira mudar o GPIO do led ou quiser colocar mais algum componente, veja a ordem de pinagem a seguir;
++ Realize a montagem do circuito conforme mostrado no <b>Esquemático</b>, caso queira mudar o GPIO do led ou quiser colocar mais algum componente, veja a ordem de pinagem a seguir;
 
 <div align="center">
 <img src="./img/pinagem.png">
