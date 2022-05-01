@@ -17,7 +17,7 @@ ____
 ## Esquemático
 
 <div align="center">
-<img src="./img/esquematico.png">
+<img src="./img/esquematico.PNG">
 </div>
 
 ___
